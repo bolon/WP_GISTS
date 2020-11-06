@@ -1,0 +1,5 @@
+lib/globals.js
+*.log
+tests_output/
+package-lock.json
+node_modules/
